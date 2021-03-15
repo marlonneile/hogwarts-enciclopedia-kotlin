@@ -1,0 +1,39 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/background</item>
+    </style>
+
+    <style name="Gryffindor" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryGryffindor</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGryffindor</item>
+        <item name="colorAccent">@color/colorAccentGryffindor</item>
+        <item name="android:colorBackground">@color/backgroundGryffindor</item>
+    </style>
+
+    <style name="Slytherin" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimarySlytherin</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSlytherin</item>
+        <item name="colorAccent">@color/colorAccentSlytherin</item>
+        <item name="android:colorBackground">@color/backgroundSlytherin</item>
+    </style>
+
+    <style name="Ravenclaw" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryRavenclaw</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkRavenclaw</item>
+        <item name="colorAccent">@color/colorAccentRavenclaw</item>
+        <item name="android:colorBackground">@color/backgroundRavenclaw</item>
+    </style>
+
+    <style name="Hufflepuff" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryHufflepuff</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkHufflepuff</item>
+        <item name="colorAccent">@color/colorAccentHufflepuff</item>
+        <item name="android:colorBackground">@color/backgroundHufflepuff</item>
+    </style>
+
+</resources>
