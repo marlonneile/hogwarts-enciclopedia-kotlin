@@ -2,16 +2,16 @@
 
 ## About the project
 
-Hogwarts Enciclopedia made using Hilt, Jetpack (LiveData, Room and ViewModel), Retrofit and Coroutines to assimilate the MVVM architecture. It's currently made consuming [HP-API](https://hp-api.herokuapp.com/). In the feature I may construct my own api to expand the project.
+Hogwarts Enciclopedia made using Hilt, Jetpack (LiveData, Room and ViewModel), Retrofit and Coroutines to assimilate the MVVM architecture. It's currently made consuming [HP-API](https://hp-api.herokuapp.com/). In the future I may construct my own api to expand the project.
 
 ## Roadmap
 
-- [x] dispaly all characters
+- [x] display all characters
 - [x] display details about them
-- [x] choose app color theme among 4 houses
+- [x] choose app color theme among 4 options (4 houses)
 - [ ] display all spells
 - [ ] display potions, magical items, etc and menu to navigate between these options
-- [ ] add particle effects to make it 'magical'
+- [ ] add effects to make it more'magical'
 
 ## Build with
 
@@ -30,3 +30,6 @@ Hogwarts Enciclopedia made using Hilt, Jetpack (LiveData, Room and ViewModel), R
 
 ## Showcase
 
+<img src="previews/home.jpg" alt="Home screen" width="200" /> <img src="previews/slytherin.jpg" alt="Slytherin theme" width="200" hspace="30" /> 
+
+<img src="previews/details.jpg" alt="Details screen" width="200" /> <img src="previews/change_theme.gif" alt="Change theme" width="200" hspace="30" />
