@@ -30,6 +30,6 @@ Hogwarts Enciclopedia made using Hilt, Jetpack (LiveData, Room and ViewModel), R
 
 ## Showcase
 
-<img src="previews/home.jpg" alt="Home screen" width="200" /> <img src="previews/slytherin.jpg" alt="Slytherin theme" width="200" hspace="30" /> 
+<img src="previews/home.jpg" alt="Home screen" width="200" hspace="20" /> <img src="previews/slytherin.jpg" alt="Slytherin theme" width="200" hspace="20" /> 
 
-<img src="previews/details.jpg" alt="Details screen" width="200" /> <img src="previews/change_theme.gif" alt="Change theme" width="200" hspace="30" />
+<img src="previews/details.jpg" alt="Details screen" width="200" hspace="20" /> <img src="previews/change_theme.gif" alt="Change theme" width="200" hspace="20" />
